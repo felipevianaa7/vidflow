@@ -1,11 +1,12 @@
 ## <p> # Projeto VidFlow</p>
-## Meu terceiro projeto similar um outro que eu fiz só que dessa vez ele ficou melhor esteticamente.
-A idéia foi colocar foi colocar um interruptor com a funcionalidade  de ligar e desligar uma lâmpada e aparecer uma cor aleatoriamente, 
-usando o método Math.random() para sortear essas cores. 
+## Projeto bem bacana simulando uma plataforma de vídeos bem conhecida, mas nao vou falar para nao fazer propaganda kkk
+a aplicação é feita consumindo uma API fake usando o json-server
 ## <p style="color: #eaeaea; font-weight: bold;">Tecnologias Utilizadas:</p>
 - HTML5
 - CSS3
 - JS
+- Node.js
+- API Restful
 
 ## <p>Layout do Site</p>
 <a href="">Acesse aqui</a>
