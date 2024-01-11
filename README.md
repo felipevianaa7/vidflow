@@ -1,6 +1,6 @@
 ## <p> # Projeto VidFlow</p>
 ## Projeto simulando uma plataforma de vídeos inspirada no YouTube
-A aplicação é feita consumindo uma API fake usando o json-server
+A aplicação é feita consumindo uma API fake usando o json-server.
 ## <p style="color: #eaeaea; font-weight: bold;">Tecnologias Utilizadas:</p>
 - HTML5
 - CSS3
