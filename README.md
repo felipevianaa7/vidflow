@@ -9,4 +9,4 @@ usando o método Math.random() para sortear essas cores.
 
 ## <p>Layout do Site</p>
 <a href="">Acesse aqui</a>
-<a href="https://github.com/felipevianaa7/vidflow/assets/53532151/88c7ec9d-3e1a-432a-ae28-e2dec431515c">Imagem do site</a>
+![painel-site](https://github.com/felipevianaa7/vidflow/assets/53532151/c4cc76ad-2801-461f-a6b6-17f621a5dfdb)
